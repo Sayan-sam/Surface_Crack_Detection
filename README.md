@@ -15,9 +15,7 @@
 
 ![Cracked Wall](https://media.istockphoto.com/id/171151393/photo/a-big-crack-on-an-old-rotten-wall.jpg?b=1&s=170667a&w=0&k=20&c=cYpp2kkFuDKFmzjdYVSaU_B76qGG9Do5Wz564hemeH0=)
 ### Dataset Visualization
-<p>
-  <img src = "./resources/augment.jpg"/>
-</p>
+![DataSet](./resources/data.png)
 ![DataSet](./resources/augment.jpg)
 ### Model Architecture
 VGG16(224,224,3) -> Dense(112, relu) -> Dense(52, relu) -> Output(1, sigmoid) 
